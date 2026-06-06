@@ -6,7 +6,15 @@ I love creativity, innovation, and I am always looking for new projects and chal
 
 I have a strong passion for service, which is why I love FPE. I find a strong sense of service to my community in the work I've done studying FPE, and I can't wait to apply it in the field one day.
 
-I have a wide array of beginner level skills in areas like Python, Arduino programming, 3D Modeling/CAD, Soldering, Woodworking, and 3D Printing. I am always trying to expand my knowledge in these areas as well as others, and I love finding ways to implement my knowledge of these skills. Whether it be in coursework, personal projects, or any other fields.
+I have a wide array of beginner level skills in areas like: 
+ - Python 
+ - Arduino programming
+ - 3D Modeling/CAD (Fusion360)
+ - Soldering 
+ - Woodworking
+ - 3D Printing (BambuLabs H2S, Prusa XL, Stratasys J55)
+   
+I am always trying to expand my knowledge in these areas as well as others, and I love finding ways to implement my knowledge of these skills. Whether it be in coursework, personal projects, or any other fields.
 
 **Fun Facts:**
 
