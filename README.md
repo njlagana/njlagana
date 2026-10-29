@@ -1,23 +1,37 @@
-## Hi there! 👋
+## hello.txt
 
-I'm a Sophomore at UMD studying Fire Protection Engineering.
+hi, i'm nathan, a sophomore at UMD studying fire protection engineering.
 
-I love creativity, innovation, and I am always looking for new projects and challenges to take on, especially with friends and peers!
+i like creativity, innovation, and i'm always looking for new projects and
+challenges to take on, especially with friends and peers.
 
-I have a strong passion for service, which is why I love FPE. I find a strong sense of service to my community in the work I've done studying FPE, and I can't wait to apply it in the field one day.
+i have a strong passion for service, which is why i love FPE. i find a real
+sense of service to my community in the work i've done studying it, and i
+can't wait to apply that in the field one day.
 
-I have a wide array of beginner level skills in areas like: 
- - Python 
- - Arduino programming
- - 3D Modeling/CAD (Fusion360)
- - Soldering 
- - Woodworking
- - 3D Printing (BambuLabs H2S, Prusa XL, Stratasys J55)
-   
-I am always trying to expand my knowledge in these areas as well as others, and I love finding ways to implement my knowledge of these skills. Whether it be in coursework, personal projects, or any other fields.
+## skills.dat
 
-**Fun Facts:**
+a wide array of beginner level skills, and i mean beginner. the list is
+honest, not a pitch.
 
-- 🎸 I've been playing guitar for 6 years and music is a major part of my life!
-- 🏕️ I love the outdoors whether I'm rock climbing, hiking, fishing, etc. If it's outside, I'm in!
-- 📻 I collect and repair vintage audio equipment such as FM/AM amplifiers, turntables, CD players, and many more.
+- **python**
+- **arduino programming**
+- **3d modeling / CAD** — fusion360
+- **soldering**
+- **woodworking**
+- **3d printing** — bambulabs h2s, prusa xl, stratasys j55
+
+always trying to expand these and pick up others, and i like finding ways to
+actually use them. coursework, personal projects, whatever else comes up.
+
+## fun_facts.txt
+
+- **guitar** — six years in, and music is a major part of my life.
+- **outdoors** — rock climbing, hiking, fishing. if it's outside, i'm in.
+- **vintage audio** — i collect and repair fm/am amplifiers, turntables, cd
+  players, and plenty more.
+
+---
+
+→ more of this at **[nathannn.dev](https://nathannn.dev)**, where the projects
+and build logs live.
